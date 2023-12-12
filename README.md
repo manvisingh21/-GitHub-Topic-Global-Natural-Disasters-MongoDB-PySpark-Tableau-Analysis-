@@ -1,14 +1,12 @@
 Global-Natural-Disasters-MongoDB-PySpark-Tableau-Analysis
+Project Overview:
+This repository integrates MongoDB, PySpark, and Tableau for a comprehensive data analysis and visualization endeavor. The project focuses on the examination of natural disaster behaviors, aiming to derive spatial insights into regions with notable event occurrences. The dataset, sourced from 1965 to 2016, comprises 23,412 meticulously documented records of telluric phenomena. These records, originating from the National Earthquake Information Center (NEIC), contribute to the profound understanding of seismic events and their impacts.
 
-Overview:
-This project combines MongoDB for data storage, PySpark for ETL processes, and Tableau for data visualization. The dataset, sourced from the National Earthquake Information Center (NEIC), spans from 1965 to 2016, encompassing 23,412 records of various seismic phenomena. The focus is on understanding the spatial distribution of natural disasters, particularly in the "Ring of Fire" region.
+Technical Implementation:
+Utilizing MongoDB as the database, PySpark serves to construct Extract, Transform, Load (ETL) processes. These processes form the foundation for data preparation, ensuring compatibility with subsequent analytical steps. The data is then visualized through Tableau, employing an array of charts, graphs, and maps for nuanced representation.
 
-Key Objectives:
-1. Data Analysis: Investigate patterns and behaviors of natural disasters over time.
-2. Spatial Understanding: Use geographic data to visualize and analyze areas with a high frequency of events.
-3. Risk Assessment: Assess risk in identified regions and explore its implications for supply chain and asset management.
-4. Data Visualization: Leverage Tableau's capabilities to create compelling visualizations, including charts, graphs, and maps.
-5. Insights for Investors: Provide insights for investors considering the impact of natural disasters on supply chain and asset prices.
+Key Insights:
+Through processed data, distinct patterns emerge, particularly evident in the "Ring of Fire" region. Investors operating in these areas are advised to consider supply chain intricacies, as heightened asset prices and more stringent insurance policies underscore the necessity for a meticulous risk classification.
 
-Significance
-This project offers a comprehensive exploration of natural disaster data, aiding stakeholders in making informed decisions regarding risk management and investment strategies. The focus on the "Ring of Fire" allows for a specific and targeted analysis of a region prone to seismic events. The combination of MongoDB, PySpark, and Tableau showcases a holistic approach to data analysis and visualization.
+Significance and GitHub Usage:
+This project is designed to be a valuable resource for stakeholders seeking informed decisions in risk management and investment. The concise integration of MongoDB, PySpark, and Tableau reflects a strategic and comprehensive approach to data analysis, making this repository an essential asset for those engaged in the world of big data and analytics.
